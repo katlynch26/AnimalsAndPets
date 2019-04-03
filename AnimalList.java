@@ -15,7 +15,7 @@ public class AnimalList
     private ArrayList <Animal> aList;
  
     
-    public AnimalList2 ()
+    public AnimalList ()
     {
         aList = new ArrayList<Animal>();
     }
