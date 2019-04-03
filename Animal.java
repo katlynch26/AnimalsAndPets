@@ -29,7 +29,7 @@ public abstract class Animal
     }
     
     /**
-     * Prints a message about eating food!
+     * Prints a message about eating food! 
      */
     public abstract void eat();
     
