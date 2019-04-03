@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Leopard
+comment0.text=\n\ Write\ a\ description\ of\ class\ Leopard\ here.\n\n\ @author\ Patty\ Gannon.\n\ @version\ 2019-04\n
+comment1.params=
+comment1.target=Leopard()
+comment2.params=
+comment2.target=void\ eat()
+comment3.params=
+comment3.target=void\ speak()
+numComments=4
